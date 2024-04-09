@@ -4,10 +4,10 @@
 
 Team name: mine bitcoins dont train models
 Team members:
-* Mihnea Ghitu (CID 01842389)
-* Tao Wang (CID 01875029)
-* Stefan Savulescu (CID 01882415)
-* Andrei Tirziu (CID 01869266)
+* Mihnea Ghitu
+* Tao Wang 
+* Stefan Savulescu 
+* Andrei Tirziu
 
 ## Problem Description
 
