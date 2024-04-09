@@ -1,0 +1,15 @@
+# add line rule length rule of 200 characters
+[FORMAT]
+max-line-length=200
+indent-string='    '
+
+[MASTER]
+init-hook='import sys; sys.path.insert(0, '.')'
+disable=
+    C0114, # Missing module docstring
+    C0115, # Missing class docstring
+    C0116, # Missing function or method docstring
+    C3001, # lambda may not be necessary
+    C0413, # Wrong import order -- needed to import from parent packages
+    E0401, # Will fix this manually - import error
+    E1102  # Not callable - this fails presumably because of the pytorch version?
